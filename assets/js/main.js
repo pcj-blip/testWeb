@@ -2,7 +2,7 @@
 	*** Based on elements from Eventually, Story, Phantom by HTML5 UP | html5up.net | @ajlkn ***
 */
 
-(function ($) {
+(function () {
 
 	"use strict";
 
@@ -412,4 +412,4 @@
 
 
 
-})(jQuery);
+})();
